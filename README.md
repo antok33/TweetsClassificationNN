@@ -13,6 +13,6 @@
     * activation function: relu
     * solver: adam [Paper: ADAM A METHOD FOR STOCHASTIC OPTIMIZATION](https://arxiv.org/pdf/1412.6980.pdf)
     
-* [Dataset](http://alt.qcri.org/semeval2016/task4/)
+* For the dataset click [here](http://alt.qcri.org/semeval2016/task4/)
 
 * Finally we compare the MLP with two simple Baseline Agorithms using as evaluation metrics: precision, recall, f1 score.
