@@ -3,7 +3,7 @@
 
 * MLP structure:
 
-![alt text](https://github.com/antok33/TweetsClassificationNN/to/NN.png) 
+![alt text](https://github.com/antok33/TweetsClassificationNN/NN.png) 
 
     * Hidden Layer 1: 120 units
     * Hidden Layer 2: 90 units
