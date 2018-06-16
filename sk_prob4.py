@@ -28,6 +28,7 @@ def features(x_train, x_test):
     x_test = count_vect.transform(x_test)
     return x_train, x_test
 
+# Baseline algorithm 1
 def baseline1(y_train, y_test):
     
     negative_frequency = 0
@@ -53,6 +54,7 @@ def baseline1(y_train, y_test):
     y_pred = np.asarray(y_pred, dtype=np.float32)
     print (metrics.classification_report(y_test, y_pred))
     
+# Baseline algorithm 2
 def baseline2(y_train, y_test):
     negative_frequency = 0
     neutral_frequency = 0
